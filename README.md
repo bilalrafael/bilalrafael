@@ -9,7 +9,7 @@
   <a href="https://instagram.com/bilalrafaelyunanta" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40">
   </a>
-  <a href="https://www.linkedin.com/in/blal rafael yunanta/" target="_blank">
+  <a href="https://www.linkedin.com/in/bilal rafael yunanta/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40px" alt="LinkedIn">
   </a>
   <a href="mailto:bilalrafaelyunanta@gmail.com" target="_blank">
