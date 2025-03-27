@@ -18,14 +18,6 @@
   </a>
 </p>
 
-## 🚀 Tech Stack
-<p align="">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  </a>
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  </a>
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
